@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **Docker, Kubernetes, Wazuh, ELK.**
 
-- 📫 Você me acha através do email **carlosemanoel53@hotmail.com**
+- 📫 Você me acha através do email **carlos.moreira_profissional@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

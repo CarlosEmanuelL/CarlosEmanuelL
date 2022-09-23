@@ -7,7 +7,9 @@
 
 - 📫 Você me acha através do email **carlos.moreira_profissional@outlook.com**
 
-- 🧑🏾‍💻 Meu portifhttps://carlosemanuell.github.io/MyPortfolioCarlosEmanuelL.github.io/
+- 🧑🏾‍💻 Meu portifólio https://carlosemanuell.github.io/MyPortfolioCarlosEmanuelL.github.io/
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://br.linkedin.com/in/carlos-emanuel-moreira-530218197?trk=people" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/carlos-emanuel-moreira-530218197?trk=people" height="30" width="40" /></a>

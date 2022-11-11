@@ -1,5 +1,5 @@
 <h1 align="center">Oi👋, Eu sou Carlos Emanuel</h1>
-<h3 align="center">Apaixonado por Segurança da Informação e Engenharia de Software.</h3>
+<h3 align="center">Focado em Segurança da Informação e Engenharia de Software.</h3>
 
 - 🌱 Atualmente estou aprendendo **Javascript, React, Node.js, Redux, TypeScript.**
 

@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Javascript, React, Node.js, Redux, TypeScript.**
 
-- 💬 Me pergunte sobre **Docker, Kubernetes, Wazuh, ELK.**
+- 💬 Me pergunte sobre **Java, JPA, Hibernate e SpringBoot**
 
 - 📫 Você me acha através do email **carlos.moreira_profissional@outlook.com**
 

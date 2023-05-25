@@ -5,9 +5,8 @@
 
 - 💬 Me pergunte sobre **Java, JPA, Hibernate e SpringBoot**
 
-- 📫 Você me acha através do email **carlos.moreira_profissional@outlook.com**
+- 📫 Você me acha através do email **carlosmoreira0329@gmail.com**
 
-- 🧑🏾‍💻 Meu portifólio https://carlosemanuell.github.io/MyPortfolioCarlosEmanuelL.github.io/
 
 
 <h3 align="left">Connect with me:</h3>
